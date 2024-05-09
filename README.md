@@ -1,0 +1,1 @@
+Proyecto desarrollado en la formación ONE de Alura Latam, con el fin de poner en practica conceptos y bases de la POO y leyes de SOLID,  cuenta con un catalogo de pelicula y serie y con las funciones de acceder a sus respectivas evaluaciones, tiempo de duración en minutos, año de creación y recomendación.
